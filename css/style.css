@@ -1,0 +1,7 @@
+.flex-cotes{
+    display: flex;
+    justify-content: space-between;
+}
+.container{
+    width: 90%;
+}
